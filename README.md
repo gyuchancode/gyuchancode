@@ -1,4 +1,6 @@
 ## Hi there 👋
+![image](https://github.com/user-attachments/assets/f658c756-8c61-48d2-b34a-4161257b85da)
+
 
 <!--
 **gyuchancode/gyuchancode** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
