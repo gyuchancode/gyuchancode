@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=Transparent&color=gradient&height=300&section=header&text=GYUCHAN&fontColor=FF8C4B)
+![header](https://capsule-render.vercel.app/api?type=Blur&color=gradient&height=300&section=header&text=GYUCHAN&fontColor=FF8C4B)
 
 
 ![image](https://github.com/user-attachments/assets/f658c756-8c61-48d2-b34a-4161257b85da)
