@@ -1,6 +1,6 @@
 <div align="center">
   
-  ![header](https://capsule-render.vercel.app/api?type=Waving&color=gradient&height=300&section=header&text=GYUCHAN)
+  ![header](https://capsule-render.vercel.app/api?type=Waving&color=gradient&height=300&text=GYUCHAN)
 </div>
 
 <h3 align="center">📧연락처 (Contact) </h3>
