@@ -1,6 +1,6 @@
 ![header](https://capsule-render.vercel.app/api?type=Blur&color=gradient&height=300&section=header&text=GYUCHAN)
 
-<p style="text-align: center;">
+<p align='center'>
   <img src="https://img.shields.io/badge/gcsim04@gmail.com-EA4335?style=flat-square&logo=gmail&logoColor=white"/>
   <a href="https://www.tistory.com/"><img src="https://img.shields.io/badge/Tech Blog-000000?style=flat-square&logo=tistory&logoColor=white"/></a>
 </p>
