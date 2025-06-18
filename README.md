@@ -1,6 +1,6 @@
-<p align='center'>
-  <img src="(https://capsule-render.vercel.app/api?type=Waving&color=gradient&height=300&section=header&text=GYUCHAN)"/>
-</p>
+<div align="center">
+  ![header](https://capsule-render.vercel.app/api?type=Waving&color=gradient&height=300&section=header&text=GYUCHAN)
+</div>
 
 <h3 align="center">📧연락처 (Contact) </h3>
 <p align='center'>
