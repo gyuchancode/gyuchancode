@@ -2,7 +2,7 @@
 
 <p>
   <img src="https://img.shields.io/badge/gcsim04@gmail.com-EA4335?style=flat-square&logo=gmail&logoColor=white"/>
-  <a href="https://www.tistory.com/"><img src="https://img.shields.io/badge/Tech Blog-000000?style=flat-square&logo=tistory&logoColor=white"/></a>
+  <a href="https://detail04.tistory.com/"><img src="https://img.shields.io/badge/Tech Blog-000000?style=flat-square&logo=tistory&logoColor=white"/></a>
 </p>
 
 ![image](https://github.com/user-attachments/assets/f658c756-8c61-48d2-b34a-4161257b85da)
